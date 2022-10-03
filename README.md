@@ -1,4 +1,4 @@
-# CommonWeaponCollection
+# Common military weapons
  Collection of common military weapons. Artists is credited in folders. Please credit them if you use these models. All models is static. Link to Sketchfab models: https://sketchfab.com/aasmundschei/collections/downloadable-military-weapons 
  
  
