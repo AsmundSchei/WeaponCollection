@@ -1,5 +1,5 @@
 # Common military weapons
- Collection of common military weapons for backup purposes under CC0-1.0 license. Artists is credited in folders. Please credit them if you use the models. All models is static.
+ Collection of common military weapons for backup purposes under CC0-1.0 license. Artists is credited in folders. Please credit them if you use the models. All models is OBJ meshes.
  Version: 4.26. Files size: 1.57GB
  
  Link to Sketchfab models: https://sketchfab.com/aasmundschei/collections/downloadable-military-weapons
