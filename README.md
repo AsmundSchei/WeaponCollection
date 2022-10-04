@@ -1,6 +1,6 @@
 # Common military weapons
  Collection of common military weapons from Sketchfab, for backup purposes under CC0-1.0 license. Artists is credited in folders. Please credit them if you use the models. All models is OBJ meshes.
- Version: 4.26. Files size: 1.57GB
+ Version: 4.26. Projectfile size: 1.57GB
  
  Sketchfab models can be found here: https://sketchfab.com/aasmundschei/collections/downloadable-military-weapons
  
