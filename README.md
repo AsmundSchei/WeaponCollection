@@ -9,13 +9,13 @@
  ![Capture2](https://user-images.githubusercontent.com/2607194/193647947-659ffb5c-6178-46d2-a102-d939bfd2da31.JPG)
 
 
-# List of weapons:
+# Weapons included:
 
 * AWP sniper
 * HK416
 * M4A1
-* MP5 SMG
-* MP7 SMG
+* MP5 
+* MP7 
 * M240B machine gun
 * Berreta M9 pistol 
 * FN502 tactical pistol
