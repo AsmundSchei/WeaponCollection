@@ -14,12 +14,12 @@
 * AWP sniper
 * HK416
 * M4A1
-* Tactical shotgun
 * MP5 SMG
 * MP7 SMG
 * M240B machine gun
 * Berreta M9 pistol 
 * FN502 tactical pistol
+* Tactical shotgun
 * Combat knife
 
 # Accesories:
