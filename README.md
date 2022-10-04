@@ -28,5 +28,6 @@
 * CTS1550 red dot scope
 * DBA2 laser 
 * Silencer
+* T13 grenade
 * S13 smoke grenade
-* T13 grenade 
+ 
