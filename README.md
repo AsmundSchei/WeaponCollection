@@ -22,7 +22,7 @@
 * Tactical shotgun
 * Combat knife
 
-# Accesories:
+# Accessories:
 
 * EOTech XPS3 scope
 * CTS1550 red dot scope
