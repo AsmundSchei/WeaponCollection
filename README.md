@@ -26,7 +26,7 @@
 
 * EOTech XPS3 scope
 * CTS1550 red dot scope
-* DBA2 laser 
+* DBA 2 laser 
 * Silencer
 * T13 grenade
 * S13 smoke grenade
